@@ -15,9 +15,9 @@
 
 # train and val datasets (image directory or *.txt file with image paths)
 
-train: data/training/
+train: ../input/dsps2022/data/training
 # val: ../data/validation/yolov5/
-val: data/validation/
+val: ../input/dsps2022/data/validation
 
 # number of classes
 nc: 7
